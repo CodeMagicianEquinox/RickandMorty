@@ -10,22 +10,9 @@
 		CD66809A2F1B1D5100DB76F2 /* RickAndMortyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RickAndMortyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CDE982652F20363900E5E3D2 /* Exceptions for "RickAndMortyApp" folder in "RickAndMortyApp" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Models/Secrets.xcconfig,
-			);
-			target = CD6680992F1B1D5100DB76F2 /* RickAndMortyApp */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		CD66809C2F1B1D5100DB76F2 /* RickAndMortyApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				CDE982652F20363900E5E3D2 /* Exceptions for "RickAndMortyApp" folder in "RickAndMortyApp" target */,
-			);
 			path = RickAndMortyApp;
 			sourceTree = "<group>";
 		};
